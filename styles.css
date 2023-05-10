@@ -1,11 +1,27 @@
+* {
+    border: 2px solid black;
+    background-color: grey;
+}
+
 .page-title {
     text-align: center;
-    background-color: darkred;
-    color: white;
+    background-color: lightslategray;
+    margin: 20px;
+    padding: auto;
+    color: black;
 }
 
 .navigation {
+    background-color: lightslategray;
     text-align: center;
     justify-content: center;
+    padding: 50px;
+    margin: 10px;
+}
+
+.nav-links {
+    background-color: lightslategray;
+    color: black;
+    padding: 10px;
     margin: 20px;
 }
