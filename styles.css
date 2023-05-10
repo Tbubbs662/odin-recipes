@@ -1,0 +1,11 @@
+.page-title {
+    text-align: center;
+    background-color: darkred;
+    color: white;
+}
+
+.navigation {
+    text-align: center;
+    justify-content: center;
+    margin: 20px;
+}
