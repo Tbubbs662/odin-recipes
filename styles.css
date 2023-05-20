@@ -13,15 +13,20 @@
 
 .navigation {
     background-color: lightslategray;
+    display: flex;
     text-align: center;
     justify-content: center;
     padding: 50px;
     margin: 10px;
 }
 
+.mac-img {
+    width: fit-content;
+}
+
 .nav-links {
     background-color: lightslategray;
     color: black;
     padding: 10px;
-    margin: 20px;
+    justify-content: space-between;
 }
